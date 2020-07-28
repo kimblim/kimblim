@@ -1,4 +1,4 @@
-### Hi, I'm Kim Johannesen and I help companies and organisations build accessible, usable and performant websites and applications.
+# Hi, I'm Kim Johannesen and I help companies and organisations build accessible, usable and performant websites and applications.
 I'm currently managing director of a small frontend consultancy in Copenhagen called [Shift](https://shiftcph.dk). Previously I've held positions as frontend developer and design director.
 
 ## Approach
