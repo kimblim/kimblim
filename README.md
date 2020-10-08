@@ -15,4 +15,4 @@ I have a wide variety of skills, but I primarily dabble in what I like to call *
 Every now and then I give talks at conferences or events, mostly centered around accessibility and/or frontend development.
 
 ## Find me elsewhere
-Mostly I'm on a twitter, either on my personal (and Danish) profile, [@therealkimblim](https://twitter.com/therealkimblim), but I also spend quite a lot of time on my "developer" account, [@overflowhidden](https://twitter.com/overflowhidden).
+Mostly I'm on a twitter, either on my personal (and Danish) profile, [@therealkimblim](https://twitter.com/therealkimblim), or on my "developer" account, [@overflowhidden](https://twitter.com/overflowhidden), where I ramble about accessibility, web standards and other stuff that relates to web development.
