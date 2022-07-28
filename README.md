@@ -1,6 +1,6 @@
-# Hi, I'm Kim Johannesen and I help companies and organisations build accessible, usable and performant websites and applications.
-I'm currently contemplating my next role after I shut down my small frontend consultancy in Copenhagen, [Shift](https://shiftcph.dk), earlier this year. 
-Previously I've held positions as frontend developer and design director. In the meantime I do small freelance gigs, so feel free to reach out.
+# Hi, I'm Kim Johannesen and I like to design and build accessible, usable and performant websites and applications.
+My current role is that of Design Manager at Workday, where I manage the Design Systems team, that works on _Workday Peakon Employee Voice_. Before that I co-founded and managed a small frontend consultancy in Copenhagen, [Shift](https://shiftcph.dk), which was shut down in June of 2021. 
+Previously I've held positions as frontend developer and design director.
 
 ## Approach
 My approach is pretty much the same as [one of the design principles of HTML](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies): In case of conflict, consider users over authors over implementors over specifiers over theoretical purity.
@@ -10,7 +10,11 @@ My approach is pretty much the same as [one of the design principles of HTML](ht
 I have a wide variety of skills, but I primarily dabble in what I like to call *The Holy Trinity* of web development: HTML, CSS and Javascript. 
 
 ## Recently I've...
-...created a few component libraries and design systems for clients. For those I've been using either [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/), but more than anything, I've used my experience to ask the right questions in order for the end product to help the users, whether those are "real" end users or developers and designers within an organisation.
+* helped make sure that the new Danish national log-in system for businesses, MitID Erhverv, is WCAG compliant. 
+* built the frontend for a national newspaper's website and their newsletter platform.
+* helped create a few component libraries and design systems for clients. For those I've been using either [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/)
+
+...but more than anything, I've used my experience to ask the right questions in order for the end product to help the users, whether those are "real" end users or developers and designers within an organisation.
 
 ## Speaking
 Every now and then I give talks at conferences or events, mostly centered around accessibility and/or frontend development.
