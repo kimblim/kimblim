@@ -1,5 +1,5 @@
 # Hi, I'm Kim Johannesen and I like to design and build accessible, usable and performant websites and applications.
-My current role is that of Design Manager at Workday, where I manage the Design Systems team, that works on _Workday Peakon Employee Voice_. Before that I co-founded and managed a small frontend consultancy in Copenhagen, [Shift](https://shiftcph.dk), which was shut down in June of 2021. 
+My current role is that of Design Manager at Workday, where I manage the Design Systems team, that works on _Workday Peakon Employee Voice_. Before that I co-founded and managed a small frontend consultancy in Copenhagen, [Shift](https://shift.dk), which was shut down in June of 2021. 
 Previously I've held positions as frontend developer and design director.
 
 ## Approach
