@@ -9,7 +9,7 @@ My approach is pretty much the same as [one of the design principles of HTML](ht
 ## HTML, CSS and Javascript
 I have a wide variety of skills, but I primarily dabble in what I like to call *The Holy Trinity* of web development: HTML, CSS and Javascript. 
 
-## Recently I've...
+## Before my current role I did a bit of freelancing — among other things I...
 * helped make sure that the new Danish national log-in system for businesses, MitID Erhverv, is WCAG compliant. 
 * built the frontend for a national newspaper's website and their newsletter platform.
 * helped create a few component libraries and design systems for clients. For those I've been using either [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/)
