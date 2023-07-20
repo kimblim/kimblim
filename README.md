@@ -9,6 +9,9 @@ My approach is pretty much the same as [one of the design principles of HTML](ht
 ## HTML, CSS and Javascript
 I have a wide variety of skills, but I primarily dabble in what I like to call *The Holy Trinity* of web development: HTML, CSS and Javascript. 
 
+## Accessibility and Usability
+I have a lot of experience in creating accessible user interfaces and I consider myself a "local expert" while knowing there is always a lot more to learn within the field. Usability is also one area that I like to participate in — technology is worthless unless it's actually beneficial and easy to use for the users.
+
 ## Before my current role I did a bit of freelancing — among other things I...
 * helped make sure that the new Danish national log-in system for businesses, MitID Erhverv, is WCAG compliant. 
 * built the frontend for a national newspaper's website and their newsletter platform.
