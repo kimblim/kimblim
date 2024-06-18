@@ -3,7 +3,7 @@ My current role is that of Design Manager at Workday, where I manage the Design 
 Previously I've held positions as frontend developer and design director.
 
 ## Approach
-My approach is pretty much the same as [one of the design principles of HTML](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies): In case of conflict, consider users over authors over implementors over specifiers over theoretical purity.
+My approach is the same as [one of the design principles of HTML](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies): In case of conflict, consider users over authors over implementors over specifiers over theoretical purity.
 > 
 
 ## HTML, CSS and Javascript
