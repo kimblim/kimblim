@@ -20,7 +20,7 @@ I have a lot of experience in creating accessible user interfaces and I consider
 
 ...but more than anything, I've used my experience to ask the right questions in order for the end product to help the users, whether those are "real" end users or developers and designers within an organisation.
 
-Obviously [I'm on LinkedIn](https://www.linkedin.com/in/kim-johannesen/) if you want to know more.
+Obviously, [I'm on LinkedIn](https://www.linkedin.com/in/kim-johannesen/) if you want to know more.
 
 ## Speaking
 Every now and then I give talks at conferences or events, mostly centered around accessibility and/or frontend development.
