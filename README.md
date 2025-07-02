@@ -1,5 +1,5 @@
 # Hi, I'm Kim Johannesen and I like to design and build accessible, usable and performant websites and applications.
-My current role is that of Design Manager at Workday, where I manage the Design Systems team, that works on _Workday Peakon Employee Voice_. 
+I'm currently an Engineering Manager at Visma working on the Design System of the e-conomic product. 
 
 ## Approach
 My approach is the same as [one of the design principles of HTML](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies): In case of conflict, consider users over authors over implementors over specifiers over theoretical purity. 
@@ -11,6 +11,7 @@ I have a wide variety of skills, but I primarily dabble in what I like to call *
 I have a lot of experience in creating accessible user interfaces and I consider myself a "local expert" while knowing there is always a lot more to learn within the field. Usability is also one area that I like to participate in — technology is worthless unless it's actually beneficial and easy to use for the users.
 
 ## My previous experiences include ...
+* managing the Design Systems Team for the Peakon product at Workday.
 * helping make sure that the new Danish national log-in system for businesses, MitID Erhverv, is WCAG compliant. 
 * building the frontend for a national newspaper's website and their newsletter platform.
 * helping create a few component libraries and design systems for clients. For those I've been using either [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/)
