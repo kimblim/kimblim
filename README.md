@@ -14,7 +14,7 @@ I have a lot of experience in creating accessible user interfaces and I consider
 * managing the Design Systems Team for the Peakon product at Workday.
 * helping make sure that the new Danish national log-in system for businesses, MitID Erhverv, is WCAG compliant. 
 * building the frontend for a national newspaper's website and their newsletter platform.
-* helping create a few component libraries and design systems for clients. For those I've been using either [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/)
+* helping create a few component libraries and design systems for clients. For those I've been using tools such as [NextJS](https://nextjs.org/), [Fractal](https://fractal.build/) or [Storybook](https://storybook.js.org/)
 * founding and managing my own small frontend consultancy in Copenhagen, [Shift](https://shift.dk), which was shut down in June of 2021.
 * being a design director in a medium sized agency.
 * working in numerous frontend engineering roles, always with a focus on HTML, CSS and JavaScript.
